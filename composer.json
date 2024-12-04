@@ -1,5 +1,5 @@
 {
-  "name": "swoft/http-message",
+  "name": "swoft-fork/http-message",
   "type": "library",
   "version": "v2.0.11",
   "keywords": [
@@ -10,14 +10,14 @@
     "http-message"
   ],
   "description": "swoft http message component",
-  "homepage": "https://github.com/swoft-cloud/swoft-http-message",
+  "homepage": "https://github.com/sky-up/swoft-http-message",
   "license": "Apache-2.0",
   "require": {
     "php": ">7.1.0",
     "psr/http-message": "^1.0",
     "psr/http-server-handler": "^1.0",
     "psr/http-server-middleware": "^1.0",
-    "swoft/stdlib": "~2.0.0"
+    "swoft-fork/stdlib": "~2.0.0"
   },
   "autoload": {
     "classmap": [
