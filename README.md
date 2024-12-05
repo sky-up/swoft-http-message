@@ -16,7 +16,7 @@ Swoft Http Message Component
 - composer command
 
 ```bash
-composer require swoft/http-message
+composer require swoft-fork/http-message
 ```
 
 ## Resources
