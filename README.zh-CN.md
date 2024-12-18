@@ -1,11 +1,15 @@
 # Swoft Http Message
 
 [![Latest Stable Version](http://img.shields.io/packagist/v/swoft/http-message.svg)](https://packagist.org/packages/swoft/http-message)
-[![Php Version](https://img.shields.io/badge/php-%3E=7.1-brightgreen.svg?maxAge=2592000)](https://secure.php.net/)
+[![Php Version](https://img.shields.io/badge/php-%3E=8.0-brightgreen.svg?maxAge=2592000)](https://secure.php.net/)
 [![Swoft Doc](https://img.shields.io/badge/docs-passing-green.svg?maxAge=2592000)](https://www.swoft.org/docs)
 [![Swoft License](https://img.shields.io/hexpm/l/plug.svg?maxAge=2592000)](https://github.com/swoft-cloud/swoft/blob/master/LICENSE)
 
 Swoft Http Message Component
+
+**注意：**
+
+本仓库fork于github swoft库，只测试了swoole4.8.13，php8.2对应版本环境，请慎用于你的生产环境，不负责积极代码维护。如需查看文档请访问原框架文档。
 
 ## [ENGLISH](README.md)
 
