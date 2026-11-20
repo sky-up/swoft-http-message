@@ -45,7 +45,7 @@ trait InteractsWithInput
      *
      * @return array
      */
-    public function header(string $key = '', array $default = null): array
+    public function header(string $key = '', ?array $default = null): array
     {
         if (!$key) {
             return $this->getHeaders();

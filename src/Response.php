@@ -201,7 +201,7 @@ class Response implements ResponseInterface
      *
      * @param self|null $response
      */
-    public function quickSend(Response $response = null): void
+    public function quickSend(?Response $response = null): void
     {
         $response = $response ?: $this;
         // Ensure coResponse is right
